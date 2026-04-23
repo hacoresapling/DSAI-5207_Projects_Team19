@@ -1,6 +1,7 @@
-#  Emergent Global Receptive Fields in CNNs via Knowledge Distillation from Vision Transformers
+# Emergent Global Receptive Fields in CNNs via Knowledge Distillation from Vision Transformers
 
 <div align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Ultralytics](https://img.shields.io/badge/Ultralytics-8.3+-green.svg)](https://github.com/ultralytics/ultralytics)
@@ -29,7 +30,6 @@ This project investigates whether YOLOv8m can acquire DINOv2-Large's global cont
 ### Key Motivation
 
 <div align="center">
-
 
 | Architecture      | Global Context | Speed (FPS) | Deployment       |
 | ----------------- | -------------- | ----------- | ---------------- |
