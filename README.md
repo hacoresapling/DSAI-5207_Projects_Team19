@@ -257,7 +257,7 @@ If you find this work useful for your research, please consider citing:
 ```bibtex
 @article{he2026emergent,
   title={Emergent Global Receptive Fields in CNNs via Knowledge Distillation from Vision Transformers},
-  author={He, Hong and Qi, Yang and Li, Jiabo and Mai, Bonan},
+  author={Yang QI，Mai Bonan， Hong He ，Li Jiabo},
   journal={DSAI 5207 - Modern Deep Learning},
   year={2026}
 }
